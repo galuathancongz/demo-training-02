@@ -1,2 +1,1 @@
-
-Text nay tu global
+Day la text moi tu local
